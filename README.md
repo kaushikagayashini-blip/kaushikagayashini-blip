@@ -13,7 +13,7 @@
   <a href="mailto:kaushikagayashini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-kaushikagayashini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> <br>
-  <p align="center">
+  <p>
   <img src="https://img.shields.io/badge/📍_Location-Rathnapura,_Sri_Lanka-EA4335?style=for-the-badge" />
 </p>
 

@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushi Ambegoda</h1>
 <h3 align="center">Software Engineering Undergraduate | UI/UX Designer | Full Stack Developer in the Making</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Rathnapura,_Sri_Lanka-EA4335?style=for-the-badge" />
+</p>
 
 <br>
 
@@ -9,6 +12,9 @@
   </a> <br>
   <a href="https://github.com/kaushikagayashini-blip" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-kaushikagayashini--blip-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> <br>
+  <a href="mailto:kaushikagayashini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-kaushikagayashini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -76,6 +82,10 @@ UI/UX Design       ██████████████████░░ 
 - 🗄️ Database Management & Design
 - 😊 Positive Attitude & Communication Skills
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Fluent-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sinhala-Native-FFB703?style=for-the-badge" />
+</p>
 
 ## 📁 Featured Projects
 
@@ -120,9 +130,9 @@ Desktop application managing academy workflow: authentication, player/tournament
 I'm always interested in:
 
 🔹 UI/UX Design Discussions<br>
-🔹 Front-End & Full Stack Development
-🔹 Open Source Projects
-🔹 QA & Software Testing
-🔹 Creative Collaborations
+🔹 Front-End & Full Stack Development<br>
+🔹 Open Source Projects<br>
+🔹 QA & Software Testing<br>
+🔹 Creative Collaborations<br>
 
 <p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>

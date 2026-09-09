@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushi Ambegoda</h1>
 <h3 align="center">Software Engineering Undergraduate | UI/UX Designer | Full Stack Developer in the Making</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Rathnapura,_Sri_Lanka-EA4335?style=for-the-badge" />
-</p>
 
 <br>
 
@@ -15,7 +12,11 @@
   </a> <br>
   <a href="mailto:kaushikagayashini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-kaushikagayashini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> <br>
+  <p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Rathnapura,_Sri_Lanka-EA4335?style=for-the-badge" />
+</p>
+
 </p>
 
 ---
@@ -82,9 +83,10 @@ UI/UX Design       ██████████████████░░ 
 - 🗄️ Database Management & Design
 - 😊 Positive Attitude & Communication Skills
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sinhala-Native-FFB703?style=for-the-badge" />
+## 💡 Languages
+<p>
+  <img src="https://img.shields.io/badge/English-4B8BBE?style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/Sinhala-FFB703?style=for-the-badge" />
 </p>
 
 ## 📁 Featured Projects

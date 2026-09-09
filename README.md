@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kaushiambegoda" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Kaushi%20Ambegoda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> <br>
   <a href="https://github.com/kaushikagayashini-blip" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-kaushikagayashini--blip-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -119,7 +119,7 @@ Desktop application managing academy workflow: authentication, player/tournament
 
 I'm always interested in:
 
-🔹 UI/UX Design Discussions
+🔹 UI/UX Design Discussions<br>
 🔹 Front-End & Full Stack Development
 🔹 Open Source Projects
 🔹 QA & Software Testing

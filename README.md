@@ -65,7 +65,16 @@ Java               ██████████████░░░░░░ 
 MySQL              ████████████████░░░░  80%
 UI/UX Design       ██████████████████░░  90%
 ```
+## 💡 Professional Skills
 
+- 🧩 Software Design & Development
+- 🔍 Expertise in OOP Concepts
+- 🧠 Problem-Solving & Critical Thinking
+- ✅ Quality Assurance (QA) & Testing
+- 🔄 Software Development Life Cycle (SDLC)
+- 🤝 Team Work & Collaboration
+- 🗄️ Database Management & Design
+- 😊 Positive Attitude & Communication Skills
 ---
 
 ## 📁 Featured Projects
